@@ -1,1 +1,1 @@
-ucemrecan.github.io/todo
+http://ucemrecan.github.io/todo
