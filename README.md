@@ -1,2 +1,1 @@
-# todo
-Js exercise
+ucemrecan.github.io/todo
